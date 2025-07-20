@@ -94,7 +94,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - **Tableau** is also highly sought after, with a bold count of 6.
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
-![Top Paying Skills](https://github.com/user-attachments/assets/c996b1fc-790d-4251-9bba-6203c5094816)
+![Top Paying Skills] https://github.com/user-attachments/assets/c996b1fc-790d-4251-9bba-6203c5094816
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; Generated this graph using Power Bi from SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts
